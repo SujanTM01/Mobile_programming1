@@ -1,18 +1,15 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:layout_width="match_parent"
-    android:layout_height="match_parent">
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:gravity="center">
 
     <TextView
-        android:id="@+id/textview10"
+        android:id="@+id/popup1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
-        android:layout_gravity="center"
-        android:layout_marginStart="150dp"
-        android:background="@drawable/textview_bg"
-        android:elevation="4dp"
-        android:padding="16dp"
-        android:text="@string/hello"
+        android:text="@string/fr1"
         android:textColor="@color/black"
         android:textSize="30sp"
         android:textStyle="bold" />

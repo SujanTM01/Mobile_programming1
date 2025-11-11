@@ -6,7 +6,7 @@
     <string name="phone">Phone</string>
     <string name="first_num">Enter First Number</string>
     <string name="second_num">Enter Second Number</string>
-    <string name="submit">Submit</string>
+    <string name="submit">Add</string>
     <string name="hello">hello</string>
     <string-array name="st1">
         <item>BCA</item>
@@ -15,4 +15,6 @@
         <item>BASW</item>
     </string-array>
     <string name="user_details">ID: %1$s\nName: %2$s\nAddress: %3$s\nGender: %4$s</string>
+    <string name="fr1">Hello Everyone , "it's me Sujan lama"</string>
+    <string name="fr2">The Nigh we Met</string>
 </resources>

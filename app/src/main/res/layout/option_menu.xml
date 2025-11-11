@@ -4,16 +4,15 @@
     android:layout_height="match_parent">
 
     <TextView
-        android:id="@+id/textview10"
+        android:id="@+id/txtV1"
         android:layout_width="wrap_content"
         android:layout_height="wrap_content"
         android:layout_gravity="center"
-        android:layout_marginStart="150dp"
-        android:background="@drawable/textview_bg"
-        android:elevation="4dp"
-        android:padding="16dp"
-        android:text="@string/hello"
+        android:layout_margin="150dp"
+        android:text="@string/fr1"
         android:textColor="@color/black"
         android:textSize="30sp"
         android:textStyle="bold" />
+
+
 </LinearLayout>
