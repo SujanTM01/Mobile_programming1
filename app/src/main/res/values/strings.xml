@@ -17,4 +17,5 @@
     <string name="user_details">ID: %1$s\nName: %2$s\nAddress: %3$s\nGender: %4$s</string>
     <string name="fr1">Hello Everyone , "it's me Sujan lama"</string>
     <string name="fr2">The Nigh we Met</string>
+    <string name="popup1">Lab 6</string>
 </resources>

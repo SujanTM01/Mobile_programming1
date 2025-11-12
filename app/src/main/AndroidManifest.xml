@@ -12,14 +12,15 @@
         android:supportsRtl="true"
         android:theme="@style/Theme.Faculty_form" >
 
-        <activity android:name=".popup_backend"
+        <activity android:name=".lab6_popup_backend"
             android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN"/>
                 <category android:name="android.intent.category.LAUNCHER"/>
             </intent-filter>
         </activity>
-        <!-- <activity android:name=".homework_2"/> -->
+        <activity android:name=".CalculationActivity"/>
+        <activity android:name=".lab6_popup_output"/>
 
     </application>
 
